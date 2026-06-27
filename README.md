@@ -137,7 +137,7 @@ superstore-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/superstore-analysis.git
+git clone https://github.com/Srilakshmi-171/superstore-analysis.git
 
 # 2. Go into the folder
 cd superstore-analysis
@@ -153,17 +153,16 @@ jupyter notebook superstore_analysis.ipynb
 
 ## 👤 About Me
 
-**[YOUR NAME]** — Data Analyst | Python • Pandas • EDA
+**Gopavarapu Venkata Srilakshmi** — Data Analyst | Python • Pandas • EDA
 
 I help businesses make sense of their data through
 clean analysis and clear visual storytelling.
 
 📬 Open for **freelance projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOURUSERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.COM)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat&logo=fiverr)](YOUR_FIVERR_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/srilakshmi-gopavarapu-904a032bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Srilakshmi-171)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:srilakshmigopavarapu@gmail.com)
 
 ---
 
