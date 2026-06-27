@@ -105,3 +105,70 @@ to maximize growth.
 ---
 
 ## 📁 Project Structure
+superstore-analysis/
+
+├── superstore_analysis.ipynb   ← Main analysis notebook
+
+├── your-dataset.csv            ← Raw dataset
+
+├── charts/                     ← All saved chart images
+
+│   ├── sales_by_category.png
+
+│   ├── sales_by_region.png
+
+│   ├── sales_by_segment.png
+
+│   ├── top_subcategories.png
+
+│   ├── monthly_sales_trend.png
+
+│   ├── yearly_growth.png
+
+│   ├── top_customers.png
+
+│   └── top_cities.png
+
+└── README.md
+
+---
+
+## ▶️ How to Run This Project
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/YOURUSERNAME/superstore-analysis.git
+
+# 2. Go into the folder
+cd superstore-analysis
+
+# 3. Install libraries
+pip install pandas matplotlib seaborn notebook
+
+# 4. Open the notebook
+jupyter notebook superstore_analysis.ipynb
+```
+
+---
+
+## 👤 About Me
+
+**[YOUR NAME]** — Data Analyst | Python • Pandas • EDA
+
+I help businesses make sense of their data through
+clean analysis and clear visual storytelling.
+
+📬 Open for **freelance projects**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOURUSERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.COM)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat&logo=fiverr)](YOUR_FIVERR_URL)
+
+---
+
+<div align="center">
+
+⭐ **If you found this useful, give it a star!** ⭐
+
+</div>
